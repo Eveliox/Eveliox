@@ -1,8 +1,8 @@
-Hey, I'm Evelio 👋
+# Hey, I'm Evelio 👋
 
 Full Stack Software Engineer focused on backend systems, cloud infrastructure, and scalable applications.
 
-What I'm Working On
+## 🚀 What I'm Working On
 - AI-powered full-stack applications
 - Real-time data pipelines
 - Cloud & DevOps infrastructure
@@ -12,7 +12,7 @@ What I'm Working On
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Eveliox&theme=dark)](https://git.io/streak-stats)
 
 
-Currently Learning
+## 🧠 Currently Learning
 - AWS
 - Distributed systems
 - Data engineering
