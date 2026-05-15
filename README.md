@@ -27,6 +27,10 @@ Full Stack Software Engineer focused on backend systems, cloud infrastructure, a
 Python • Java • JavaScript • React • Flask • FastAPI • PostgreSQL • Docker • Linux • GitHub Actions
 
 
+## 👨‍💻 My projects:
+https://web-portfolio-alpha-six.vercel.app/
+
+
 ## 📫 Connect With Me
 - GitHub: github.com/Eveliox
 - LinkedIn: [linkedin.com/in/eveliogonzalez](https://www.linkedin.com/in/evelio-gonzalez-77a3b5329/)
