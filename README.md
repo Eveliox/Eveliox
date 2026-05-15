@@ -29,7 +29,7 @@ Python • Java • JavaScript • React • Flask • FastAPI • PostgreSQL �
 
 ## 📫 Connect With Me
 - GitHub: github.com/Eveliox
-- LinkedIn: linkedin.com/in/eveliogonzalez
+- LinkedIn: [linkedin.com/in/eveliogonzalez](https://www.linkedin.com/in/evelio-gonzalez-77a3b5329/)
 - Email: eveliogonzalez9@icloud.com
 <!---
 Eveliox/Eveliox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
